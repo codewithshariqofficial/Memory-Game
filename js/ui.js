@@ -61,3 +61,4 @@ const UI = {
         this.winModal.classList.add('hidden');
     }
 };
+

@@ -169,3 +169,4 @@ class MemoryGame {
 document.addEventListener('DOMContentLoaded', () => {
     new MemoryGame();
 });
+
